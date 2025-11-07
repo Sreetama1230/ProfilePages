@@ -1,4 +1,4 @@
-Understood One to Many Relationship between the entities
+Understood One to One Relationship between the entities
 Create user with profile
 POST http://localhost:8080/users
 ```
